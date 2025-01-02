@@ -1,4 +1,4 @@
-# ⚽ Tic Tac Toe Game (Java + XML)
+# ⚽ Tic Tac Toe Game App(Java + XML)
     
    <h2>✨ Features:</h2>
     <ul>
